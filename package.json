@@ -43,7 +43,7 @@
   },
   "dependencies": {
     "@storybook/node-logger": "^6.1.14",
-    "css-loader": "^3.6.0",
+    "css-loader": "^5.2.0",
     "postcss": "^7.0.35",
     "postcss-loader": "^4.2.0",
     "style-loader": "^1.3.0"
